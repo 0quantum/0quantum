@@ -75,7 +75,7 @@ Full-stack expense tracking application with authentication, dashboard analytics
 
 - Portfolio: https://my-portfolio-beta-inky-11.vercel.app/
 - GitHub: https://github.com/0quantum
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/oleksandr-kostiuk-92247b353/
 
 ---
 
