@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Oleksandr
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
 
 🇺🇦 Ukrainian Developer based in Helsinki, Finland
 
